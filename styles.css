@@ -1,0 +1,12 @@
+#quote-box {
+  border-style: solid;
+  padding: 25px;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
